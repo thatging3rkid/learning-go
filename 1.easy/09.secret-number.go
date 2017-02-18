@@ -13,7 +13,6 @@ func random(min, max int) int {
 }
 
 func main() {
-
 	var min int
 	var max int
 
